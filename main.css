@@ -1,0 +1,82 @@
+body {
+  background-color: #298eea;
+  margin: 0;
+}
+
+.logospace {
+  margin-top: 40px;
+  margin-bottom: 25px;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  max-height: 35px;
+}
+
+.form {
+  display: block;
+  height: 455px;
+  width: 360px;
+  margin: auto;
+  background-color: white;
+  border-radius: 5px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.form h1 {
+  text-align: center;
+  color: grey;
+  padding-top: 40px;
+  font-size: 38px;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+}
+
+input {
+  display: block;
+  margin: auto;
+  border-radius: 3px;
+  height: 55px;
+  border: 2px #e6e6e6 solid;
+  width: 320px;
+  padding-left: 15px;
+  
+}
+
+button {
+  display: block;
+  width: 340px;
+  height: 55px;
+  border: 2px solid #15CD72;
+  background-color: #15CD72;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  font-size: 22px;
+}
+
+.pwdreset {
+  color: grey;
+  display: block;
+  text-align: center;
+}
+
+.login {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+p a {
+  color: white;
+}
