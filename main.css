@@ -65,6 +65,11 @@ button {
   font-size: 22px;
 }
 
+button:hover {
+  background-color: #00b33c;
+  border: #00b33c;
+}
+
 .pwdreset {
   color: grey;
   display: block;
